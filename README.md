@@ -1,10 +1,10 @@
 # Education
 
-## National Institute of Development Administration (NIDA)
+- National Institute of Development Administration (NIDA)
 MA – Master of Science in Information System Management, April 2007
 GPA 3.5
 
-## Chulalongkorn University, Bangkok, Thailand
+- Chulalongkorn University, Bangkok, Thailand
 BA - Bachelor of Engineering in Computer Engineering, April 1994
 GPA 2.60
 
