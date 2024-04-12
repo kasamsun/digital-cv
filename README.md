@@ -2,24 +2,21 @@
 
 ## Contact
 
-   Email : kasamsun_s@yahoo.com, kasamsun@gmail.com  
-   Phone : 081-641-2677  
-   Address : 293/86 Nirvana Cluster Ramkhamhaeng Ratphatthana Rd. Saphansung Bangkok 10240  
-   Github : [https://github.com/kasamsun/](https://github.com/kasamsun/)  
-   Facebook : [https://web.facebook.com/kasamsun](https://web.facebook.com/kasamsun)  
+- :email: Email : kasamsun_s@yahoo.com, kasamsun@gmail.com  
+- :telephone_receiver: Phone : 081-641-2677  
+- :house: Address : 293/86 Nirvana Cluster Ramkhamhaeng Ratphatthana Rd. Saphansung Bangkok 10240  
+- :computer: Github : [https://github.com/kasamsun/](https://github.com/kasamsun/)  
+- :computer: Facebook : [https://web.facebook.com/kasamsun](https://web.facebook.com/kasamsun)  
    
 ## Education
 
-- National Institute of Development Administration (NIDA)
-
+- National Institute of Development Administration (NIDA)  
    MA – Master of Science in Information System Management, April 2007  
    GPA 3.5
 
-- Chulalongkorn University, Bangkok, Thailand
-
+- Chulalongkorn University, Bangkok, Thailand  
    BA - Bachelor of Engineering in Computer Engineering, April 1994  
    GPA 2.60
-
 
 ## Work Experience
 
@@ -32,12 +29,12 @@
 
 
 #### Mobilife International (8/2014 – 6/2020)
-Lead Developer, Solution Architect
+`Lead Developer, Solution Architect`  
 - Service Unit on Mobile, Portable bank branch solution for GSB, Android, Nodejs, MongoDB, Rabbit MQ, 2017-2020
 - MyMo by GSB, GSB-Mobile banking application, Frontend-Native Android Java-Kotlin, Backend-Vipera, MySQL, 2014-2020
 
 #### T.N. Information Systems (1/2008 – 7/2014)
-Consultant, Developer
+`Consultant, Developer`  
 - Employee Self Services, GSB, Java Web Application, Oracle, SAP BAPI,  2012-2014
 - Budget Planning, GSB, VB .Net, MSSQL, 2012-2014
 - e-Recruitment, GSB, Java Web Application, Tomcat, MySQL, 2013
@@ -48,7 +45,7 @@ Consultant, Developer
 - Employee Self Services, CIMB, Java Web Application, Oracle, SAP BAPI, 2008-2009
 
 #### Siebiz Systems (3/2004 – 1/2008)
-Developer, Project Manager
+`Developer, Project Manager`
 - Human Resource / Payroll Systems, Sukhothai Thammathirat Open University, Web Application, C# .NET, Oracle, 2007
 - Office of the National Economic and Social Development Board Official Website, CMS, .NET Nuke, 2006
 - Fox Inet Service, Provide Web Services for TFEX System, IT Elements, C# .NET, MS SQL Server, 2006
@@ -57,7 +54,7 @@ Developer, Project Manager
 - Office Automation System / HIV Database / Stock Management / Annual Inspection System, AFRIMS, PHP/MySQL/Oracle, 2004
 
 #### Bangkok Solutions (3/2002 - 3/2004)
-Project Manager, Web Developer
+`Project Manager, Web Developer`  
 - www.pttep.com, Official PTTEP Website, ASP, 2004
 - www.thaiboss.com, Back Office, Customer management, PHP, 2004
 - www.equickprint.com, Online Photo Printing Service, PHP, 2003
@@ -80,12 +77,12 @@ Project Manager, Web Developer
 - JubMoo+/Slave, Online game, Consolation Prize on Nectec Game Programming Contest #1, 1999
 
 #### Indigo Technologies, Thailand (8/1998 – 4/2000)
-System Engineer
+`System Engineer`  
 - Online System, Government Saving Bank(GSB), Running on Windows NT Server, Working on X.25 Network, 1999
 - Seat Ticketing and Reservation System II, State Railway of Thailand (SRT), Object-Oriented Software Development using C++ Builder, 1998
 
 #### T.N. Information System, Bangkok, Thailand (4/1994 - 8/1998)
-Senior System Engineer
+`System Engineer`  
 - Loan System, Designing and Developing based on Object Oriented Technology, Workflow Integration and Distributed Object(CORBA),1997
 - Online level 3.5 System phase II via CIS, Document archiving using Visual Basic & Informix, GSB, 1996
 - Cash Deposit Machine(CDM)'s Software Development/Localization, Bangkok Bank, Bank of Asia, Thai Farmer Bank. 1996
