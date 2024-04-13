@@ -2,11 +2,11 @@
 
 ## Contact
 
-- :email: Email : kasamsun_s@yahoo.com, kasamsun@gmail.com  
-- :telephone_receiver: Phone : 081-641-2677  
-- :house: Address : 293/86 Nirvana Cluster Ramkhamhaeng Ratphatthana Rd. Saphansung Bangkok 10240  
-- :computer: Github : [https://github.com/kasamsun/](https://github.com/kasamsun/)  
-- :computer: Facebook : [https://web.facebook.com/kasamsun](https://web.facebook.com/kasamsun)  
+- Email : kasamsun_s@yahoo.com, kasamsun@gmail.com  
+- Phone : 081-641-2677  
+- Address : 293/86 Nirvana Cluster Ramkhamhaeng Ratphatthana Rd. Saphansung Bangkok 10240  
+- Github : [https://github.com/kasamsun/](https://github.com/kasamsun/)  
+- Facebook : [https://web.facebook.com/kasamsun](https://web.facebook.com/kasamsun)  
    
 ## Education
 
@@ -24,7 +24,7 @@
 - Kaotajai, Backend Nodejs, NestJS Framework, PostgresSQL, AWS, 2023
 - NWT Fleet Management, Backend Nodejs, Express, Frontend Vuejs, MongoDB Atlas, GCP, Cloud Run, Cloud Pub/Sub, Compute Engine, Cloud Scheduler, 2022, 2023
 - TDG Livecommerce, Frontend Vuejs, Nuxt Framework, AWS, 2022
-- CAAT (The Civil Aviation Authority of Thailand) 
+- CAAT (The Civil Aviation Authority of Thailand), Backend .Net core, MS SQL Server, 2021 
 - Wemo Pod, Sales Management, Java Android application, Backend Nodejs, Express, jQuery, MongoDB Atlas, AWS S3, GCP App Engine, SCB Payment Gateway 2019, 2021
 
 
