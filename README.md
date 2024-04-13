@@ -1,3 +1,6 @@
+![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/10395498?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
+)
+
 ## Personal Information
 - Full name : Kasamsun Suwannajitr
 - Date of birth : 22/6/1973
