@@ -1,7 +1,6 @@
-# Kasamsun CV
-
-## Contact
-
+## Personal Information
+- Full name : Kasamsun Suwannajitr
+- Date of birth : 22/6/1973
 - Email : kasamsun_s@yahoo.com, kasamsun@gmail.com  
 - Phone : 081-641-2677  
 - Address : 293/86 Nirvana Cluster Ramkhamhaeng Ratphatthana Rd. Saphansung Bangkok 10240  
